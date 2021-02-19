@@ -22,7 +22,7 @@ App built using react-native(no expo).
 Football tournament manager allows users to manage their football league tournaments in a well-organized way with some cool in-app features such as daily voting on real-life football matches.
 
 code details:
- - AWS netlify cloud functions were used in the backend part(daily vote)
+ - AWS netlify lambda functions were used in the backend part(daily vote)
  - expo wasn't used therefore i wasn't able to view it on an ios simulator(i have a windows machine). **So,** the app isn't optimized for ios devices.
  - Users' votes are stored on mongoDB in the cloud.
  -  tournament details are stored in the device's local storage(async storage)
