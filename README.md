@@ -3,11 +3,12 @@ app is available on the playstore: [https://play.google.com/store/apps/details?i
 
 **If link doesn't work, search for "Ahmadbenos" on the playstore and the app should appear**
 
-**App description is after the below screenshots**
+**App description is after the screenshots**
 
 <img src="playstore_sc.jpeg" height="350" width="300">
 
 ## playstore screenshot
+
  pic 1           |  pic 2          |  pic 3
 :-------------------------:|:-------------------------:|:---------------------------
 ![](https://play-lh.googleusercontent.com/VJat_fwGwSFohAHo6Ph12i1-RM5DWc_xMb_JLYyfsG8Q9-RiSwpRY66ThIIkBCjUllI=w1400-h400-rw)  |  ![](https://play-lh.googleusercontent.com/7IEoekbKhZ_sSkBZbjBlyxr-tXzZQmSWsYyXuLx7VwUoE-EIs-sB3To5y1Qn-d1zBsU=w1400-h400-rw)  |  ![](https://play-lh.googleusercontent.com/vEKHThLGC7wqB10C7xbRxoOZ4IiqRY9jo2mjP7qO6S9EOjo3PgtMOZ0vFb94OuAQMlc=w1400-h400-rw)
@@ -37,3 +38,6 @@ Features:
  - Nice looking league standings
  - **daily voting on real-life football matches**
  - View how other people are voting in the daily vote
+
+
+Please reach me out through email if you'd like to view the app code or the serverless function code
