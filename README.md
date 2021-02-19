@@ -4,6 +4,13 @@ app is available on the playstore: [https://play.google.com/store/apps/details?i
 
 **App description is after the below screenshots**
 ## playstore screenshot
+ pic 1           |  pic 2          |  pic 3
+:-------------------------:|:-------------------------:|:---------------------------
+![](https://play-lh.googleusercontent.com/VJat_fwGwSFohAHo6Ph12i1-RM5DWc_xMb_JLYyfsG8Q9-RiSwpRY66ThIIkBCjUllI=w1400-h400-rw)  |  ![](https://play-lh.googleusercontent.com/7IEoekbKhZ_sSkBZbjBlyxr-tXzZQmSWsYyXuLx7VwUoE-EIs-sB3To5y1Qn-d1zBsU=w1400-h400-rw)  |  ![](https://play-lh.googleusercontent.com/vEKHThLGC7wqB10C7xbRxoOZ4IiqRY9jo2mjP7qO6S9EOjo3PgtMOZ0vFb94OuAQMlc=w1400-h400-rw)
+
+ pic 4           |  pic 5          |  pic 6
+:-------------------------:|:-------------------------:|:---------------------------
+![](https://play-lh.googleusercontent.com/OKAGZdw6-dWJiLu6YsccJJvE8geGZQ12_KlU18yyrOOOm7q9v0muh_pHiD-V4iNJaqk=w1400-h400-rw)  |  ![](https://play-lh.googleusercontent.com/ff94KwraGpJqdJvjf_7y1GTpxBOZtJPLoN_0kbKwL_MzAEXGV8jU7NlOmFcwDOuyNAs=w1400-h400-rw)  |  ![](https://play-lh.googleusercontent.com/Go0KvgYuNSa5NjqsVs23G6qQXtlrMJXJI9frj1z0vuKUbx9faf9U_Ie13nD7rcbw3oU=w1400-h400-rw)
 
 ## App details
 App built using react-native(no expo).
