@@ -1,5 +1,6 @@
 # Playstore link
 app is available on the playstore: [https://play.google.com/store/apps/details?id=com.tournament_manager](https://play.google.com/store/apps/details?id=com.tournament_manager)
+
 **If link doesn't work, search for "Ahmadbenos" on the playstore and the app should appear**
 
 **App description is after the below screenshots**
