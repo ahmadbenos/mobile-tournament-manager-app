@@ -4,6 +4,9 @@ app is available on the playstore: [https://play.google.com/store/apps/details?i
 **If link doesn't work, search for "Ahmadbenos" on the playstore and the app should appear**
 
 **App description is after the below screenshots**
+
+<img src="playstore_sc.jpeg" height="350" width="300">
+
 ## playstore screenshot
  pic 1           |  pic 2          |  pic 3
 :-------------------------:|:-------------------------:|:---------------------------
