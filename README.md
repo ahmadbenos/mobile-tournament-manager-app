@@ -1,0 +1,1 @@
+# mobile-tournament-manager-app
