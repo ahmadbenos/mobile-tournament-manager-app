@@ -26,6 +26,7 @@ code details:
  - expo wasn't used therefore i wasn't able to view it on an ios simulator(i have a windows machine). **So,** the app isn't optimized for ios devices.
  - Users' votes are stored on mongoDB in the cloud.
  -  tournament details are stored in the device's local storage(async storage)
+ -  Admob implementation
  - Didn't work so much on responsiveness but it's fairly compatible on tablets as well.
 
 Features:
